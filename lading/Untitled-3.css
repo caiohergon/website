@@ -1,0 +1,22 @@
+@media screen and (max-width: 760px){
+    header, main{
+        flex-direction: column;
+    }
+
+    h3{
+        font-size: 30px;
+    }
+
+    form{
+        margin: auto;
+        width: 100%;
+    }
+
+    .nv{
+        padding-left: 50px;
+    }
+
+    img{
+        display: none;
+    }
+}
